@@ -3,7 +3,7 @@ LuaSeel is a simple lua obfuscator that uses bytecode encryption.
 
 # Instructions
 
-1. GO to a lua online executor (i.e repl.it, lua demo etc).
+1. Go to a lua online executor (i.e repl.it, lua demo etc).
 
 2. Copy+Paste this script into the executor: https://raw.githubusercontent.com/Direnta/LuaSeel/master/obfuscator.lua
 
@@ -20,4 +20,5 @@ LuaSeel is a simple lua obfuscator that uses bytecode encryption.
 # Credits
 
 Direnta - For making the script
+
 Roberto Ierusalimschy - For creating Lua <3
