@@ -12,13 +12,18 @@ LuaSeel is a simple lua obfuscator that uses bytecode encryption.
 4. Execute the script and the obfuscated script will be in the output. Complete!
 
 # Features
-• Boolean obfuscator
 • Math value algorithims
+
 • Variable obfuscator/changer
+
 • Bytecode encryption
+
+• Randomized strings - credit to SadBoy22
 
 # Credits
 
 Direnta - For making the script
 
 Roberto Ierusalimschy - For creating Lua <3
+
+SadBoy22 - Randomized strings.
